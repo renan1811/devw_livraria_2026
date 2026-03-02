@@ -11,7 +11,7 @@ content_hash = "sha256:c11f5f831b069210767df1ca5ed12b01ae96afd12a77e3bbc99d30154
 requires_python = ">=3.10"
 
 [[package]]
-name = "annotated-types"
+name = "annotated-types"                                                                                                                                        
 version = "0.7.0"
 requires_python = ">=3.8"
 summary = "Reusable constraint types to use with typing.Annotated"
